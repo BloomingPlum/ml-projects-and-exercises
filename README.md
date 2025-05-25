@@ -28,7 +28,7 @@ This repository contains a variety of projects and homework assignments I comple
 - **Time Series Visualizations**  
   Techniques for analyzing and plotting time series data.
 
-## 📈 Tools & Libraries Used
+## Tools & Libraries Used
 
 - Python, Jupyter Notebook
 - Pandas, NumPy
